@@ -1,0 +1,15 @@
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\bin\Debug\net6.0\Final1.exe
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\bin\Debug\net6.0\Final1.deps.json
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\bin\Debug\net6.0\Final1.runtimeconfig.json
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\bin\Debug\net6.0\Final1.dll
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\bin\Debug\net6.0\Final1.pdb
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\Final1.csproj.AssemblyReference.cache
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\Final1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\Final1.AssemblyInfoInputs.cache
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\Final1.AssemblyInfo.cs
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\Final1.csproj.CoreCompileInputs.cache
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\Final1.dll
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\refint\Final1.dll
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\Final1.pdb
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\Final1.genruntimeconfig.cache
+C:\Users\rukochea\Desktop\Geek\C#FinalTest\Final1\obj\Debug\net6.0\ref\Final1.dll
